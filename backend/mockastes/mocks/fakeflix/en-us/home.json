@@ -1,0 +1,34 @@
+{
+    "sections": [
+        {
+            "banner": {
+                "title": "Sons of Anarchy",
+                "url": "https://www.themoviedb.org/t/p/original/m97x6kmDyJGvqiJH4gPEC7NMAcG.jpg",
+                "button": "Watch",
+                "fontSize": 40,
+                "categories": ["Violence", "Motorcycle", "Ace of Spades"]
+            }
+        },
+        {
+            "big_artwork_card_list": {
+                "title": "Recently added on Fakeflix",
+                "artworks": [
+                    "https://image.tmdb.org/t/p/original/ywBt4WKADdMVgxTR1rS2uFwMYTH.jpg",
+                    "https://image.tmdb.org/t/p/original/nz5fAg1OomLZ7fxiM4RnLbJxppc.jpg",
+                    "https://image.tmdb.org/t/p/original/xf9wuDcqlUPWABZNeDKPbZUjWx0.jpg"
+                ]
+            }
+        },
+        {
+            "artwork_card_list": {
+                "title": "Top 5 in the US Today",
+                "artworks": [
+                    "https://image.tmdb.org/t/p/original/7ze7YNmUaX81ufctGqt0AgHxRtL.jpg", 
+                    "https://image.tmdb.org/t/p/original/ekZobS8isE6mA53RAiGDG93hBxL.jpg",
+                    "https://image.tmdb.org/t/p/original/u3bZgnGQ9T01sWNhyveQz0wH0Hl.jpg", 
+                    "https://image.tmdb.org/t/p/original/kY0BogCM8SkNJ0MNiHB3VTM86Tz.jpg"
+                ]
+            }
+        }
+    ]
+}

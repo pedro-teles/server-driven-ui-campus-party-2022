@@ -1,0 +1,27 @@
+{
+  "services": [
+    {
+      "name": "fakeflix",
+      "routes": [
+        {
+          "path": "fakeflix/pt-br/home",
+          "status": 200,
+          "delay": 3,
+          "current_response": "./mocks/fakeflix/pt-br/home.json",
+          "possible_responses": [
+            "./mocks/fakeflix/pt-br/home.json"
+          ]
+        },
+        {
+          "path": "fakeflix/en-us/home",
+          "status": 200,
+          "delay": 3,
+          "current_response": "./mocks/fakeflix/en-us/home.json",
+          "possible_responses": [
+            "./mocks/fakeflix/en-us/home.json"
+          ]
+        }
+      ]
+    }
+  ]
+}

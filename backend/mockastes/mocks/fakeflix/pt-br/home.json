@@ -1,0 +1,47 @@
+{
+    "sections": [
+        {
+            "artwork_card_list": {
+                "title": "Top Séries no Brasil",
+                "artworks": [
+                    "https://image.tmdb.org/t/p/original/hgRMSOt7a1b8qyQR68vUixJPang.jpg", 
+                    "https://image.tmdb.org/t/p/original/cvhNj9eoRBe5SxjCbQTkh05UP5K.jpg",
+                    "https://image.tmdb.org/t/p/original/59SVNwLfoMnZPPB6ukW6dlPxAdI.jpg", 
+                    "https://image.tmdb.org/t/p/original/b5pl6GmQmTCHmZKEBhXPN0gmoAq.jpg", 
+                    "https://image.tmdb.org/t/p/original/ruHPkmmAwBTCzNXtHot18rs6ctN.jpg"
+                ]
+            }
+        },
+        {
+            "banner": {
+                "title": "The Flash",
+                "url": "https://image.tmdb.org/t/p/original/jC1KqsFx8ZyqJyQa2Ohi7xgL7XC.jpg",
+                "button": "Assistir",
+                "fontSize": 40,
+                "categories": ["Super-Herói", "Ação", "Suspense"]
+            }
+        },
+        {
+            "artwork_card_list": {
+                "title": "Filmes para toda Família",
+                "artworks": [
+                    "https://image.tmdb.org/t/p/original/9z256FFPDsL7kSVJ9oyLELaN1ph.jpg", 
+                    "https://image.tmdb.org/t/p/original/8G7EaPTocE0ok3YNxo972woo9EP.jpg",
+                    "https://image.tmdb.org/t/p/original/jTrXwK56EoLHHxfBkpwGdfmy2uh.jpg", 
+                    "https://image.tmdb.org/t/p/original/71XnRvkadkWZZowCGcuBi4XAKdJ.jpg"
+                ]
+            }
+        },
+        {
+            "big_artwork_card_list": {
+                "title": "Só no Fakeflix",
+                "artworks": [
+                    "https://image.tmdb.org/t/p/original/qI8jy4kXyQmIZWFvyjQO8nxIez4.jpg", 
+                    "https://image.tmdb.org/t/p/original/ofBAZM79LltP7FIBRWJDMzyQGYG.jpg",
+                    "https://image.tmdb.org/t/p/original/rRKLin0R9gYxpR33W7e4cxx5swI.jpg", 
+                    "https://image.tmdb.org/t/p/original/zgu3p4NvisS8CI68cUfBKbvAvu8.jpg"
+                ]
+            }
+        }
+    ]
+}
